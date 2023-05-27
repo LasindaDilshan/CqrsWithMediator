@@ -1,0 +1,12 @@
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/bin/Debug/net7.0/MovieMnagementLibrary.deps.json
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/bin/Debug/net7.0/MovieMnagementLibrary.dll
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/bin/Debug/net7.0/MovieMnagementLibrary.pdb
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/obj/Debug/net7.0/MovieMnagementLibrary.csproj.AssemblyReference.cache
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/obj/Debug/net7.0/MovieMnagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/obj/Debug/net7.0/MovieMnagementLibrary.AssemblyInfoInputs.cache
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/obj/Debug/net7.0/MovieMnagementLibrary.AssemblyInfo.cs
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/obj/Debug/net7.0/MovieMnagementLibrary.csproj.CoreCompileInputs.cache
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/obj/Debug/net7.0/MovieMnagementLibrary.dll
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/obj/Debug/net7.0/refint/MovieMnagementLibrary.dll
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/obj/Debug/net7.0/MovieMnagementLibrary.pdb
+/Users/santa/Projects/cqrs/MovieMnagementLibrary/obj/Debug/net7.0/ref/MovieMnagementLibrary.dll

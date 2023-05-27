@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EamEVzubBQNexO8vtCRXmN4xXg8x/SQRCFeMWMNH6KV4LQWFDXPTzQ2FNjmmTDTTQ8XX8tvGsC46WEzPomcgwA==",
+  "success": true,
+  "projectFilePath": "/Users/santa/Projects/cqrs/cqrs/cqrs.csproj",
+  "expectedPackageFiles": [
+    "/Users/santa/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/Users/santa/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/santa/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

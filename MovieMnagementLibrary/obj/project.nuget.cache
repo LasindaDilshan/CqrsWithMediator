@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZF49ZJfiIl/Ru7/hYxsUjfnByfmK8vyuSIilfRKkK2gn2DJtDuH80FP+aYJbdN4BJQ9awRFJVLX4Orw17HCRg==",
+  "success": true,
+  "projectFilePath": "/Users/santa/Projects/cqrs/MovieMnagementLibrary/MovieMnagementLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/santa/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/Users/santa/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/santa/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
